@@ -1,6 +1,6 @@
-================================
+==========================================
 Usage guidelines for 5-text_indentation.py
-================================
+==========================================
 
 This module defines a text-indentation function ``text_indentation(text)``.
 
